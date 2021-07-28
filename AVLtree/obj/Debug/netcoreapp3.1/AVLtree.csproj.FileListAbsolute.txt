@@ -1,0 +1,13 @@
+C:\Users\Polina\source\repos\AVLtree\AVLtree\bin\Debug\netcoreapp3.1\AVLtree.exe
+C:\Users\Polina\source\repos\AVLtree\AVLtree\bin\Debug\netcoreapp3.1\AVLtree.deps.json
+C:\Users\Polina\source\repos\AVLtree\AVLtree\bin\Debug\netcoreapp3.1\AVLtree.runtimeconfig.json
+C:\Users\Polina\source\repos\AVLtree\AVLtree\bin\Debug\netcoreapp3.1\AVLtree.runtimeconfig.dev.json
+C:\Users\Polina\source\repos\AVLtree\AVLtree\bin\Debug\netcoreapp3.1\AVLtree.dll
+C:\Users\Polina\source\repos\AVLtree\AVLtree\bin\Debug\netcoreapp3.1\AVLtree.pdb
+C:\Users\Polina\source\repos\AVLtree\AVLtree\obj\Debug\netcoreapp3.1\AVLtree.csproj.AssemblyReference.cache
+C:\Users\Polina\source\repos\AVLtree\AVLtree\obj\Debug\netcoreapp3.1\AVLtree.AssemblyInfoInputs.cache
+C:\Users\Polina\source\repos\AVLtree\AVLtree\obj\Debug\netcoreapp3.1\AVLtree.AssemblyInfo.cs
+C:\Users\Polina\source\repos\AVLtree\AVLtree\obj\Debug\netcoreapp3.1\AVLtree.csproj.CoreCompileInputs.cache
+C:\Users\Polina\source\repos\AVLtree\AVLtree\obj\Debug\netcoreapp3.1\AVLtree.dll
+C:\Users\Polina\source\repos\AVLtree\AVLtree\obj\Debug\netcoreapp3.1\AVLtree.pdb
+C:\Users\Polina\source\repos\AVLtree\AVLtree\obj\Debug\netcoreapp3.1\AVLtree.genruntimeconfig.cache
